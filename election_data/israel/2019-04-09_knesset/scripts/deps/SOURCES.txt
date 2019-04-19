@@ -1,0 +1,1 @@
+date-for-filename.sh:https://github.com/omersne/dotfiles/blob/master/bin/date-for-filename.sh
